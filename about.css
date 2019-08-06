@@ -69,11 +69,11 @@ color: #ffffff;
   margin-bottom: -100px;
   position: sticky;
   display: block;
+  align-items: center;
 }
 
 .kim{
   height: 400px;
-  margin-right: 100px;
   position: sticky;
   align-items: center;
 
@@ -87,6 +87,7 @@ color: #ffffff;
   margin-left: 300px;
   margin-right: 300px;
   margin-top: -80px;
+  align-items: center;
 }
 
 .about1{
