@@ -74,7 +74,10 @@ color: #ffffff;
 .kim{
   height: 400px;
   position: sticky;
+  margin-left: 300px;
+  margin-right: 300px;
   align-items: center;
+
 
 }
 .aboutintro{
