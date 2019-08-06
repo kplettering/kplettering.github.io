@@ -1,0 +1,144 @@
+html, body{
+  height: 100%;
+  background: #cccccc;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+h1{
+  color:#2e3b27;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight:bold;
+  font-size: 30px;
+  letter-spacing: 2px;
+  margin-left: 10px;
+  position: sticky;
+}
+
+h2{
+  color:#2e3b27;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight:lighter;
+  font-size: 20px;
+  letter-spacing:1px;
+  text-align: center;
+  position: sticky;
+  margin-top: -44px;
+}
+
+nav{
+  colour:#2e3b27;
+  font-family: 'Montserrat', sans-serif;
+  text-align: right;
+  position: sticky;
+  margin-top: -38px;
+  margin-bottom: 10px;
+}
+
+nav a{
+  padding: 16px
+}
+
+
+a{
+  text-decoration: none;
+  color:#2e3b27;
+}
+
+footer p{
+  clear: both;
+  color: white;
+}
+
+footer,
+.page-wrap:after{
+  height:55px;
+  color: #2e3b27;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.ribbon{
+  height: 500px;
+  margin: 100px;
+  margin-right: 100px;
+  position: sticky;
+}
+
+.p1{
+  color: #ffffff;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 55px;
+  font-weight:lighter;
+  position: absolute;
+  margin-top: -450px;
+  margin-left: 200px;
+}
+
+.p2{
+  color: #2e3b27;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  position: absolute;
+  text-align: right;
+  margin-top: -400px;
+  margin-left: 200px;
+  display: block;
+}
+
+
+.kimglass{
+  height:500px;
+  margin-top: 100px;
+  margin-right: 500px;
+  margin-left: 100px;
+  position: sticky;
+}
+
+.h3{
+  color: #ffffff;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight:lighter;
+  font-size: 55px;
+  position: absolute;
+  text-align: right;
+  margin-top: -500px;
+  margin-left: 500px;
+}
+
+.p3{
+  color: #2e3b27;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  position: absolute;
+  text-align: right;
+  margin-top: -390px;
+  margin-left: 648px;
+
+}
+
+.list1{
+  color: #2e3b27;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  position: absolute;
+  text-align: left;
+  margin-left: 730px;
+  margin-top: -320px;
+  display: block;
+  line-height: 30px;
+  display: block;
+}
+
+.list2{
+  color: #2e3b27;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  position: absolute;
+  text-align: left;
+  margin-top: -112px;
+  margin-right: -200px;
+  margin-left: 100px;
+  display: block;
+}
