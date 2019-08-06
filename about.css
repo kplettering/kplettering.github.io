@@ -72,11 +72,12 @@ color: #ffffff;
 }
 
 .kim{
-  height: 400px;
-  position: sticky;
-  align-items: center;
-  margin-left: 300px;
-  margin-right: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  height: 300px;
+  width: 30%;
 
 }
 .aboutintro{
